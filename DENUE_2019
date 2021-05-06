@@ -1,0 +1,11 @@
+$ cd Macintosh HD⁩ 
+$ cd ⁨Usuarios⁩ 
+$ cd ⁨Documentos⁩
+$ cd ⁨TEC⁩
+$ cd 10mo sem⁩
+$ cd ⁨Visualización datos Phyton⁩
+$ cd Google Colaboratory
+$ git lfs install
+$ git lfs track "*.csv"
+$ git add DENUE_2019.csv
+$ git commit -m "DENUE_2019.csv"
