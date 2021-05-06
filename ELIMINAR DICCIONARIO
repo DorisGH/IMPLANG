@@ -1,3 +1,0 @@
-git rm Diccionario_denue.csv
-git commit -m "elimino archivos innecesarios"
-git push
